@@ -10,4 +10,4 @@
 
 - [线性代数与空间解析几何](github.com/error)
 
-- [计算思维与人工智能](github.com/error)
+- [计算思维与人工智能](https://hourai-chiyo.github.io/kyouka-notes/计算思维与人工智能/计算思维与人工智能.html)
