@@ -5,4 +5,4 @@
 就这样吧。
 
 
-![工科数学分析](https://github.com/Hourai-chiyo/kyouka-notes/blob/main/工科数学分析/微积分笔记.html)
+[工科数学分析](https://github.com/Hourai-chiyo/kyouka-notes/blob/main/工科数学分析/微积分笔记.html)
