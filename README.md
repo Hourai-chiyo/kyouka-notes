@@ -8,6 +8,6 @@
 
 - [工科数学分析](https://hourai-chiyo.github.io/kyouka-notes/工科数学分析/微积分笔记.html)
 
-- [线性代数与空间解析几何](https://github.com/Hourai-chiyo/kyouka-notes)
+- [线性代数与空间解析几何](https://hourai-chiyo.github.io/kyouka-notes/线性代数与空间解析几何/线性代数笔记.html)
 
 - [计算思维与人工智能](https://hourai-chiyo.github.io/kyouka-notes/计算思维与人工智能/计算思维与人工智能.html)
